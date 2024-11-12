@@ -46,6 +46,10 @@ I have a proven track record of leading research projects from conception to com
 Tech Lead: Building AI applications using Machine Learning models and LLM to automate data analysis and reporting.
 - **Technologies:** Python, SQL, Machine Learning, LLMs, OpenAI, NLP, Transformers, Docker
 
+### Research On LLMs (Nov 2023 – August 2024)
+Researched and developed AI models using Large Language Models (LLMs) for various NLP tasks.
+- **Technologies:** Python, SQL, Machine Learning, LLMs, OpenAI, NLP, Transformers, Docker
+
 ### Avidbots (Nov 2021 – Nov 2023)
 Team Lead, responsible for roadmap planning, hiring, and managing robotics projects focused on perception and localization.
 - **Technologies:** C++, Python, Machine Learning, ROS, Docker, PostgreSQL, AWS
