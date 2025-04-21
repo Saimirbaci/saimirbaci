@@ -41,8 +41,10 @@ I have a proven track record of leading research projects from conception to com
 ---
 
 ## 💼 Work Experience
+### Antler (April 2025 – )
+Founder In Residence: Building a startup to automate boring stuff.
 
-### Yeji Datalab (August 2024 – Present)
+### Yeji Datalab (August 2024 – March 2025)
 Tech Lead: Building AI applications using Machine Learning models and LLM to automate data analysis and reporting.
 - **Technologies:** Python, SQL, Machine Learning, LLMs, OpenAI, NLP, Transformers, Docker
 
