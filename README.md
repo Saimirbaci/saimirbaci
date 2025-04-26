@@ -8,7 +8,9 @@
 
 ## 👋 Introduction
 
-Accomplished team lead and engineer with over a decade of experience in computer engineering, specializing in autonomous systems, machine learning, and robotics.
+Starting a venture company bringing value to teams and companies by automating the mundane and repetitive work. 
+
+Previously I have worked as team lead and engineer with over a decade of experience in computer engineering, specializing in autonomous systems, machine learning, and robotics.
 I have a proven track record of leading research projects from conception to completion, with a focus on developing innovative solutions for complex engineering problems.
 
 ---
