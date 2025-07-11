@@ -43,7 +43,11 @@ I have a proven track record of leading research projects from conception to com
 ---
 
 ## 💼 Work Experience
-### Antler (April 2025 – )
+
+### Augmentifai: (July 2025 - )
+Co-Founder of Augmentifai. Building a product to help engineers solve boring problems.
+
+### Antler (April 2025 – June 2025)
 Founder In Residence: Building a startup to automate boring stuff.
 
 ### Yeji Datalab (August 2024 – March 2025)
